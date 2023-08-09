@@ -2,7 +2,7 @@ package com.driver;
 
 public class Main {
     public static void main(){
-        B b=new B();
+        classB b=new classB();
         String a=b.meth();
         System.out.println(a);
     }

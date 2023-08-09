@@ -1,7 +1,7 @@
 package com.driver;
 
-public class B extends A{
+public class classA {
     public String meth(){
-        return "Rahul";
+        return "Name";
     }
 }
